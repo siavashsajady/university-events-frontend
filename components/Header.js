@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { FaEdgeLegacy } from 'react-icons/fa';
-import styles from '../styles/Header.module.css';
+import styles from '@/styles/Header.module.css';
 
 export default function Header() {
   return (
